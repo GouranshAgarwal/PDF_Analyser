@@ -9,7 +9,7 @@ PDF Analyzer Bot is an innovative project designed to leverage the Gemini API an
 
 ## LinkedIn Post
 
-For more information and updates, check out our LinkedIn post: [PDF Analyzer Bot LinkedIn Post]
+For more information and updates, check out our LinkedIn post: [PDF Analyzer Bot LinkedIn Post](https://www.linkedin.com/posts/gouransh-agarwal-907281288_pdfanalyzer-ai-naturallanguageprocessing-activity-7222906987011878912-kBSA?utm_source=share&utm_medium=member_desktop)
 
 ## Installation
 
