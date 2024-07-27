@@ -51,3 +51,11 @@ This will start the Streamlit server, and you will be able to interact with the 
 ## Acknowledgements
 
 Special thanks to Kunal Kishore and Skillcred for their valuable guidance and support throughout this project.
+
+## License
+
+[Include your project's license information here, if applicable]
+
+---
+
+Feel free to customize this README further to better suit your project's needs.
